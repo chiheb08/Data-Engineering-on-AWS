@@ -6,7 +6,7 @@ I have created this repository with the purpose of documenting my journey in lea
 
 
 
-this github repository is divided into 5 sectioms : 
+the documentation is divided into 5 sectioms : 
 Collection , Storage , Processing , Analysis and Visualization 
 
 # Sections : 
